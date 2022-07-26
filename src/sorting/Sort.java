@@ -2,7 +2,7 @@ package sorting;
 
 import java.util.Arrays;
 
-public class Main {
+public class Sort {
     public static void main(String[] args) {
         int[] arrToSort = {4, 43, 1, 9, -13, 102, 57, -4};
         System.out.println(Arrays.toString(arrToSort));
